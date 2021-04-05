@@ -5,7 +5,7 @@
 }
 
 body {
-   background-color: #36454f; 
+   background-color: #696969; 
 }
 
 .navbar{
@@ -39,7 +39,7 @@ body {
     content: '';
     height: 3px;
     width: 0;
-    background: #009688;
+    background:  red;
     position: absolute;
     left: 0;
     bottom: -10px;
